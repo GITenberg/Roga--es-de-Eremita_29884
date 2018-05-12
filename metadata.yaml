@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9720
     wikipedia: http://pt.wikipedia.org/wiki/Jaime_de_magalh%C3%A3es_lima
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29884#Roga--es-de-Eremita
 gutenberg_issued: '2009-09-01'
 gutenberg_type: Text
 identifiers:
